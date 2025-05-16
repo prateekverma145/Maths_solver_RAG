@@ -50,6 +50,7 @@ The system uses the JEE Bench dataset to demonstrate advanced question answering
 ```
 ## overview
 System Architecture Overview
+```
 ┌─────────────────┐     ┌──────────────────┐     ┌──────────────────────┐
 │                 │     │                  │     │                      │
 │  User Interface │────▶│   AI Gateway    │────▶│   Routing Agent      │
@@ -91,6 +92,7 @@ System Architecture Overview
                        │              (Improves Over Time)                │
                        │                                                  │
                        └──────────────────────────────────────────────────┘
+```
 ### 1. AI Gateway (Guardrails)
 The AI Gateway provides input and output guardrails:
 
