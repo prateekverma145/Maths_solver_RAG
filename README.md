@@ -89,7 +89,7 @@ System Architecture Overview
                        ┌──────────────────────────────────────────────────┐
                        │                                                  │
                        │              Human Feedback Agent                │
-                       │              (Improves Over Time)                │
+                       │                         │
                        │                                                  │
                        └──────────────────────────────────────────────────┘
 ```
